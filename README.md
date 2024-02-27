@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BadmusAbdullah
 - 👀 I'm a medical student with strong interest in technology. I'm driven to find ways to integrate the two fields for the betterment of patient care
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on frontend projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ML and AI
 - 📫 How to reach me: @PMaikanwan on twitter
 
 <!---
